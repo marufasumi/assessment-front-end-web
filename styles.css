@@ -1,0 +1,108 @@
+body {
+  background-color: rgb(194, 198, 199);
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+h2{
+	background-color:burlywood;
+	color:crimson;
+	margin: 0;
+	text-align: center;
+}
+nav {
+	border-bottom: 2px solid orange;
+	background-color:burlywood;
+	overflow: hidden;
+
+}
+
+ol {
+	list-style-type: none;
+	background-color:burlywood;
+	padding: 5px 4px;
+	margin: 0;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+.crumb {
+	margin-right:1rem;
+	display: inline;
+	list-style: none;
+	
+	
+}
+
+a {
+	color: orange;
+	
+
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+.btn{
+	background-color: yellow;
+	border: none;
+	padding: 15px;
+	display: inline-block;
+	text-align: center;
+	text-decoration: none;
+	cursor: pointer;
+	font-size: 15px;
+
+}
+
+.contact{
+	background-color: skyblue;
+	color: crimson;
+}
+.info{
+	background-color: burlywood;
+}
+form{
+	background-color:rgb(194, 198, 199);
+}
+.box{
+	background-color:#ddd;
+}
+
+.btn1{
+	background-color:burlywood;
+	border: none;
+	padding: 15px;
+	display: inline-block;
+	text-align: center;
+	text-decoration: none;
+	cursor: pointer;
+	font-size: 15px;
+
+}
+
+#allH1{
+	background-color: burlywood;
+	
+}
+
+.link{
+	background-color: skyblue;
+}
+
+.applyAll{
+	background-color:rgb(194, 198, 199);
+	text-align: justify;
+}
